@@ -1,5 +1,5 @@
 {
-    "name": "illustria/research/test",
+    "name": "illustria/researchtest",
     "type": "library",
     "description": "Symfony polyfill for the Mbstring extension",
     "keywords": ["polyfill", "shim", "compatibility", "portable", "mbstring"],
